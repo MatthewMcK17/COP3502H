@@ -1,4 +1,4 @@
-# CS1-Honors
+# COP 3502H - CS1 Honors
 
 ### Assignment 0 - Handle Generator
 ### Assignment 1 - Chesslands
