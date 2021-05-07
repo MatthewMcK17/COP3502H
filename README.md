@@ -1,6 +1,6 @@
 # CS1-Honors
 
-## Assignment 0 - Handle Generator
+### Assignment 0 - Handle Generator
 ## Assignment 1 - Chesslands
 ## Assignment 2 - 
 ## Assignment 3 - 
