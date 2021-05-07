@@ -1,6 +1,6 @@
 // Author: Matthew McKeever
-// Date: 02/19/2021
-// Class: COP3502H
+// Course: Spring 2021 COP 3502H
+// Date: February 22, 2021
 
 #include <stdio.h>
 #include <stdlib.h>
